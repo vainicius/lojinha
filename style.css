@@ -1,0 +1,43 @@
+body{
+    font: normal 15px Arial;
+    display: flex;   
+    text-align: center;
+    
+    
+}
+
+h1{
+ font-size: 2vw;
+
+}
+
+#products-div{
+    border: 1px solid cornflowerblue;
+    width: 18vw;
+    height: 50vh;
+    border-radius: 15px;
+    margin-bottom: 1rem; 
+    
+}
+
+#products-div img{
+    width: 50%
+    
+}
+
+#itens_section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+    
+
+}
+
+#nome{
+    font-size: 2vw;
+    font-weight: bold;
+    text-align:center;
+    
+}
+
